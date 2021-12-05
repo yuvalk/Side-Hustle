@@ -5,3 +5,6 @@ from django.contrib import admin
 from .models import Job
 
 admin.site.register(Job)
+
+# just for the demo
+# another line
